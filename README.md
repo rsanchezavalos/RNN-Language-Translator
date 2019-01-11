@@ -1,2 +1,2 @@
 # RNN-MT-sp-en
-Bidirectional Recurrent Neural Networks Spa-Eng
+Bidirectional Recurrent Neural Network Spa-Eng
